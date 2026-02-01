@@ -1,4 +1,4 @@
-###  ** .gitignore**
+### **7. Complete .gitignore**
 ```gitignore
 # Python
 __pycache__/
